@@ -1,10 +1,11 @@
 		<div class="row">
 			<div class="12u">
 
-				<!-- Blog -->
+				<!-- Blog show_blog -->
+				{% if show_blog == false }
 					<section>
 						<header class="major">
-							<h2>The Blog</h2>
+							<h2>Nouvelles</h2>
 						</header>
 						<div class="row">
 						{% for post in site.posts offset: 0 limit: 2 %}
@@ -27,7 +28,7 @@
 						{% endfor %}
 						</div>
 					</section>
-
+				{% endif %}
 			</div>
 		</div>
 	</div>
