@@ -697,10 +697,24 @@
 	#banner
 	{
 		background: #CCE8F4 url('../images/vtc3.jpg');
-		background-position: center center;
+		background-image: url('../images/vtc3.jpg');
+		background-attachment: fixed;
+		background-position: top center;
+		background-repeat: repeat;
+		background-size: cover;
+		bottom: 0;
+		height: 100%;
+		left: 0;
+		opacity: 0.5;
+		position: absolute;
+		right: 0;
+		top: 0;
+		width: 100%;
+		display: block;  
+		/*background-position: center center;
 		background-size: auto 100%;
-		background-repeat: no-repeat;
-		text-align: center;
+		background-repeat: no-repeat;*/
+		text-align: center; 
 	}
 
 		#banner header
