@@ -1,4 +1,4 @@
-name: DopeTrope
-description: DopeTrope template for Jekyll
+name: HappyChauffeur
+description: HappyChauffeur
 paginate: 10
-baseurl: '/DopeTrope-Jekyll-Theme'
+gems: [jekyll-paginate]
