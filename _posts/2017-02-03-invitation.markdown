@@ -3,6 +3,7 @@ layout: post
 title:  "Invitation"
 date:   2017-01-28 17:18:59 +0100
 permalink: /invitation.html
+featured: none
 categories: invitation
 ---
 Inscrivez-vous ici pour faire partie des premiers à bénéficier du service exceptionnel de **HappyChauffeur**
