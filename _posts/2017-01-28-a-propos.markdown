@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "A propos"
+date:   2017-01-28 17:18:59 +0100
+featured: /assets/images/vtc3.jpg
+permalink: /apropos.html
+categories: about
+---
+HappyChauffeur
+
+HappyChauffeur est un service proposé par Labacar, une filiale de MobilityFounders, Startup Studio fondé et financé par Rentacar.
+
+
+
