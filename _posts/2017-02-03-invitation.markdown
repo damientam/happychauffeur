@@ -16,6 +16,6 @@ Inscrivez-vous ici pour faire partie des premiers à bénéficier du service exc
     Code parrain <em>Si vous n'avez pas de code parrain, laissez ce champ vide</em><input type="text" name="code"> 
 
     Nombre de véhicules <input type="text" name="nbre">
-    <input type="hidden" name="_next" value="http://happychauffeur.com/merci.html" />
+    <input type="hidden" name="_next" value="{{ site.baseurl }}/merci.html" />
     <input type="submit" value="Envoyer">
 </form>
