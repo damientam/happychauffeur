@@ -7,8 +7,6 @@ categories: lancement
 ---
 Bonne nouvelle, nous lançons le service HappyChauffeur en programme beta pour quelques chauffeurs privilégiés!
 Uniquement pour Paris pour l'instant...
-Demandez votre invitation! 
-
-Envoyez un email à <a href="mailto:d@labacar.com">d@labacar.com</a> avec vos coordonnées (Nom, adresse, téléphone), vous serez recontacté rapidement.
+<a href="{{ site.baseurl }}/invitation.html">Demandez votre accès ici</a>
 
 
